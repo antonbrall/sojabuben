@@ -17,5 +17,6 @@ Mehr text[^frz]
 Mehr Text mit Fußnote[^g1]
 
 [^g1]: Fußnotentext
-[﻿^frz]: test
+[^frz]: test
+
 Noch mehr Text
