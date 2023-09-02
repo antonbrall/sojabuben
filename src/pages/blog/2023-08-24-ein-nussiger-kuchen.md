@@ -4,7 +4,7 @@ title: Ein nussiger Kuchen
 date: 2023-08-24T13:08:32.418Z
 description: Ein leckerer Nusskuchen mit 3 Schichten
 featuredpost: false
-featuredimage: /img/2308kuchen1.jpg
+featuredimage: /img/2308kuchen1-2.jpg
 tags:
   - kuchen
   - nuss
